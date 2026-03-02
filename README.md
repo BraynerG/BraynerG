@@ -12,7 +12,7 @@ I am a **Full Stack Developer** with over **4 years of experience** in both fron
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,py,cs," />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs," />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,react,vite,nodejs" />
