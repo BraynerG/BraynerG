@@ -5,17 +5,26 @@ I am a **Full Stack Developer** with over **4 years of experience** in both fron
 
 - 🔭 I’m currently working as a **Full-Stack Developer**
 - ⚡ **Fun fact:** I have a background in AI implementations
-- 💬 Ask me about **Vue.js, React, Node.js, or API integrations**
+- 💬 Ask me about **Vue.js, React, Node.js or API integrations**
 - 📫 How to reach me: **braynergonzalezmendez@gmail.com**
 
 ---
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,vue,react,vite,nodejs,py,cs,mysql,postgres,git,jenkins" />
+  <img src="https://skillicons.dev/icons?i=js,html,py,cs," />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,react,vite,nodejs" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,graphql,github" />
 </p>
 
-> **Core Focus:** JavaScript (ES6+), Typescript, React, Node.js, and API connectivity.
+> **Core focus** JavaScript (ES6+), Typescript, React, Node.js, PostgreSQL and API connectivity.
 
 ---
 
