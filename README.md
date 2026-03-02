@@ -1,5 +1,5 @@
 # Hi there, I'm Brayner! 👋
-
+[<img alt="Static Badge" src="https://img.shields.io/badge/PORTFOLIO-gray?style=flat-square&logo=brevo&logoColor=white">](https://braynerg.vercel.app)
 ### 👨‍💻 Professional Profile
 I am a **Full Stack Developer** with over **4 years of experience** in both frontend and backend environments. I specialize in web development technologies, database management, and integrating complex external APIs.
 
